@@ -25,10 +25,7 @@ public class AopDemoApplication  implements CommandLineRunner {
 
 	@Override
 	public void run(String... args) throws Exception {
-		// this would be run as soon as the app is launched
-
 		logger.info(business1.caculateSomethig());
 		logger.info(business2.caculateSomethig());
-
 	}
 }

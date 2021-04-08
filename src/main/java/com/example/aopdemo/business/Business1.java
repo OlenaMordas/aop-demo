@@ -1,6 +1,6 @@
 package com.example.aopdemo.business;
 
-import com.example.aopdemo.Dao1;
+import com.example.aopdemo.data.Dao1;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
